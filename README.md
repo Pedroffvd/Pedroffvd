@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<!--
-**Pedroffvd/Pedroffvd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**Pedro Ivanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
@@ -13,4 +13,4 @@
 - 📫 Hcomo chegar até mim: No meu numero de telefone
 - 😄 Pronomes: Ele
 - ⚡Curiosidade: Procurando aprender coisas novas
--->
+
